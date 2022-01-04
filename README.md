@@ -28,7 +28,7 @@ The objective of this challenge is to utilize Tableau Public to present robust a
 - While we know that males make up a majority of users, we see similar trends in usage throughout the day between males and females. The unkown gender group is of a size where it is difficult to draw any conclusions.
 
 #### Subscibers vs. Single Users
-![Subscibers vs. Single Users](resources/NYC_Citibike_subscriberes.png)<br>
+![Subscibers vs. Single Users](resources/NYC_Citibike_subscribers.png)<br>
 - Subscribers comprise 81% of all rides, indicating that the bikeshare's success is heavily driven by regular users who most likely use the bikes to commute to and from work in addition to, or in place of, other public transit options.
 - Similar to the other graphs, we see a heavy skew towards males in the subscribers and customers, with consistent patterns of usage independent of gender.
 
