@@ -1,5 +1,7 @@
-# Ignore MASSIVE data file
+# Ignore MASSIVE data files
 201908-citibike-tripdata.csv
+citibike-tripdata.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
